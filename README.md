@@ -1,2 +1,2 @@
 # desk-dash
-submission to jame gam game jam
+https://frostydevlol.itch.io/desk-dash
